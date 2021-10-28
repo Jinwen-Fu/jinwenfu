@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Jinwen Fu
 
-You can use the [editor on GitHub](https://github.com/Jinwen-Fu/Jinwen-Fu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+#### BS in Statistics, University of Science and Technology of China ( USTC )
+#### Dual degree in Computer Science, University of Science and Technology of China ( USTC )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interest
+$\bullet$ Bayesian Inference  
+$\bullet$ Statistical Machine Learning  
+$\bullet$ Genomics data
 
-### Markdown
+### CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
