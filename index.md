@@ -1,15 +1,17 @@
 ## Jinwen Fu
 
 ### Education
-#### BS in Statistics, University of Science and Technology of China ( USTC )
-#### Dual degree in Computer Science, University of Science and Technology of China ( USTC )
+- **BS in Statistics**  
+University of Science and Technology of China ( USTC )
+- **Dual degree in Computer Science**  
+University of Science and Technology of China ( USTC )
 
 ### Research Interest
-$\bullet$ Bayesian Inference  
-$\bullet$ Statistical Machine Learning  
-$\bullet$ Genomics data
+- Bayesian Inference  
+- Statistical Machine Learning  
+- Genomics data
 
-### CV
+[CV]()
 
 
 # Header 1
