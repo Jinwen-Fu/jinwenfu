@@ -11,7 +11,7 @@ University of Science and Technology of China ( USTC )
 - Statistical Machine Learning  
 - Genomics data
 
-[CV](https://github.com/Jinwen-Fu/jinwenfu.github.io/blob/4ad01e3d108c59cfb5441b4cbe012dce00a2417b/Jinwen_Fu_cv.pdf)
+[CV](Jinwen_Fu_cv.pdf)
 
 
 # Header 1
