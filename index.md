@@ -20,10 +20,10 @@ University of Science and Technology of China ( USTC )
   
 ### Current Work
 - **Variational Inference in Multi Gamma-Poisson Model**  
-advisor: Zhixiang Lin, Assistant Professor in Statistics at the Chinese University of Hong Kong ( CUHK )  
+advisor: [Zhixiang Lin](https://zhixianglin.weebly.com/), Assistant Professor in Statistics at the Chinese University of Hong Kong ( CUHK )  
 
 - **The impact of news coverage on stock price forecasts**  
-advisor: Tong Xv, Associate Professor in Computer Science and Technology at USTC
+advisor: [Tong Xv](http://staff.ustc.edu.cn/~tongxu/), Associate Professor in Computer Science and Technology at USTC
   
   
 ### Contact
